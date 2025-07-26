@@ -1,5 +1,6 @@
 ![Header](./Images/LIttle%20Star%20StudIo.png)
 
+---
 <div align="center">
   <a href="mailto:studiolittlestar2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -13,19 +14,14 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LittleStarStudio.LittleStarStudio&"  />
-</div>
-
-###
-
+----------------
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Star from Indonesia<br>- 🔭 I’m working as Full-stack Web and App Developer<br>- 📚 I'm currently learning API and Database<br>- ⚡ In my free time I play any game that is on my steam account :D</p>
 
+----------------------------------------
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -83,7 +79,7 @@
 </div>
 
 ###
-
+---
 <h3 align="left">🔥   My Streak:</h3>
 
 ###
