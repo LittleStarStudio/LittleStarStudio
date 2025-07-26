@@ -1,4 +1,4 @@
-![Header](./Images/github-header-image.png)
+![Header](./Images/LIttle%20Star%20StudIo.png)
 
 <div align="center">
   <a href="mailto:studiolittlestar2@gmail.com" target="_blank">
